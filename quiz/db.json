@@ -1,0 +1,81 @@
+{
+  "bg":"https://i.ibb.co/JFnpN87/unnamed.jpg ",
+  "bg_two": "https://i.ibb.co/6RYZN0q/unnamed2.png",
+  "title": "Desafio Conhecimento",
+  "description": "Teste os seus conhecimentos ",
+  "questions": [
+    {
+      "image": "https://i.ibb.co/FWkcCd6/vaz2.jpg ",
+      "title": "Você conhece Antônio Vaz? ?",
+      "description": "Essa é pra aquecer",
+      "answer": 0,
+      "alternatives": [
+        "Sim",
+        "Nao"
+        
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/gMTtdMv/vaz3.jpg",
+      "title": "Qual é a função dele ?",
+      "description": "Eai sabe ?",
+      "answer": 3,
+      "alternatives": [
+         " Médico",
+         "Professor", 
+         "Vereador", 
+         "Deputado"
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/2dWh0Nb/cidade.jpg ",
+      "title": "Se ja ouviu falar dele em qual veiculo?",
+      "answer": 1,
+      "description": "humm!",
+      "alternatives": [
+         "Nao ouvi falar", 
+         "TV",
+         "Redes sociais",
+         "Igreja"
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/kSnR3bx/campogrande2.jpg ",
+      "title": "Você sabia que ele liberou verbas para o seu municio?",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+         " Sim.",
+         " Nao."
+        
+      ]
+    },
+    {
+      "image": "https://i.ibb.co/JFnpN87/unnamed.jpg",
+      "title": "Você sabia que ele tem lutado pelas classe dos professores, agricultores?",
+      "description": "é a ultima ",
+      "answer": 0,
+      "alternatives": [
+         " Sim",
+         " Nao"
+         
+      ]
+    }
+  ],
+  "external": [
+    "https://quiz-cavaleiro-zodiaco.vercel.app",
+    "https://flash-quiz-next.davidlpc1.vercel.app",
+    "https://harry-potter-quiz.lucianoweslen11.vercel.app"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#0d47a1",
+      "secondary": "#29b6f6",
+      "mainBg": "#171B35",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
